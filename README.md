@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GhostKiller</h1>
-<h3 align="center">A CSE student from India</h3>
+<p1 align="center">A CSE student from India</p1>
 
 
 <h3 align="center">Languages and Tools:</h3>
