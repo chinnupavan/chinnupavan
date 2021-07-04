@@ -9,7 +9,20 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/chinnupavan/pull/1) in [chinnupavan/chinnupavan](https://github.com/chinnupavan/chinnupavan)
+2. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![star] Starred [Matsu0819/discord-musicbot](https://github.com/Matsu0819/discord-musicbot)
+4. ![star] Starred [jonaaa20/RecoverySuite](https://github.com/jonaaa20/RecoverySuite)
+5. ![star] Starred [CircuitsBots/Starboard](https://github.com/CircuitsBots/Starboard)
+6. ![star] Starred [davidk/docker-discordpy-playlist](https://github.com/davidk/docker-discordpy-playlist)
+7. ![star] Starred [IshanKamboj/Giveaway-Bot](https://github.com/IshanKamboj/Giveaway-Bot)
+8. ![star] Starred [xezzz/Giveaway-Bot-V2](https://github.com/xezzz/Giveaway-Bot-V2)
+9. ![star] Starred [NightZan999/TheImperialGod](https://github.com/NightZan999/TheImperialGod)
+10. ![star] Starred [Jess-v/music-bot](https://github.com/Jess-v/music-bot)
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last refresh: Sunday, July 4th, 2021, 3:00:12 PM (Indian Standard Time)
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
