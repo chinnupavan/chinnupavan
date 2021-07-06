@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [cree-py/RemixBot](https://github.com/cree-py/RemixBot)
-2. ![star] Starred [Nekos-life/nekos.py](https://github.com/Nekos-life/nekos.py)
-3. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/chinnupavan/pull/1) in [chinnupavan/chinnupavan](https://github.com/chinnupavan/chinnupavan)
-4. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![star] Starred [Matsu0819/discord-musicbot](https://github.com/Matsu0819/discord-musicbot)
-6. ![star] Starred [jonaaa20/RecoverySuite](https://github.com/jonaaa20/RecoverySuite)
-7. ![star] Starred [CircuitsBots/Starboard](https://github.com/CircuitsBots/Starboard)
-8. ![star] Starred [davidk/docker-discordpy-playlist](https://github.com/davidk/docker-discordpy-playlist)
-9. ![star] Starred [IshanKamboj/Giveaway-Bot](https://github.com/IshanKamboj/Giveaway-Bot)
-10. ![star] Starred [xezzz/Giveaway-Bot-V2](https://github.com/xezzz/Giveaway-Bot-V2)
+1. ![star] Starred [AHiddenDonut/Economy-Bot-Youtube](https://github.com/AHiddenDonut/Economy-Bot-Youtube)
+2. ![star] Starred [cree-py/RemixBot](https://github.com/cree-py/RemixBot)
+3. ![star] Starred [Nekos-life/nekos.py](https://github.com/Nekos-life/nekos.py)
+4. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/chinnupavan/pull/1) in [chinnupavan/chinnupavan](https://github.com/chinnupavan/chinnupavan)
+5. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![star] Starred [Matsu0819/discord-musicbot](https://github.com/Matsu0819/discord-musicbot)
+7. ![star] Starred [jonaaa20/RecoverySuite](https://github.com/jonaaa20/RecoverySuite)
+8. ![star] Starred [CircuitsBots/Starboard](https://github.com/CircuitsBots/Starboard)
+9. ![star] Starred [davidk/docker-discordpy-playlist](https://github.com/davidk/docker-discordpy-playlist)
+10. ![star] Starred [IshanKamboj/Giveaway-Bot](https://github.com/IshanKamboj/Giveaway-Bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Monday, July 5th, 2021, 11:30:14 PM (Indian Standard Time)
+Last refresh: Tuesday, July 6th, 2021, 5:30:34 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
