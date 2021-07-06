@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [AHiddenDonut/Economy-Bot-Youtube](https://github.com/AHiddenDonut/Economy-Bot-Youtube)
-2. ![star] Starred [cree-py/RemixBot](https://github.com/cree-py/RemixBot)
-3. ![star] Starred [Nekos-life/nekos.py](https://github.com/Nekos-life/nekos.py)
-4. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/chinnupavan/pull/1) in [chinnupavan/chinnupavan](https://github.com/chinnupavan/chinnupavan)
-5. ![star] Starred [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![star] Starred [Matsu0819/discord-musicbot](https://github.com/Matsu0819/discord-musicbot)
-7. ![star] Starred [jonaaa20/RecoverySuite](https://github.com/jonaaa20/RecoverySuite)
-8. ![star] Starred [CircuitsBots/Starboard](https://github.com/CircuitsBots/Starboard)
-9. ![star] Starred [davidk/docker-discordpy-playlist](https://github.com/davidk/docker-discordpy-playlist)
-10. ![star] Starred [IshanKamboj/Giveaway-Bot](https://github.com/IshanKamboj/Giveaway-Bot)
+1. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+2. ![star] Starred [SamSanai/VoiceMaster-Discord-Bot](https://github.com/SamSanai/VoiceMaster-Discord-Bot)
+3. ![star] Starred [nerrixDE/simple-modlogs](https://github.com/nerrixDE/simple-modlogs)
+4. ![star] Starred [eric-yeung/Discord-Bot](https://github.com/eric-yeung/Discord-Bot)
+5. ![star] Starred [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot)
+6. ![star] Starred [joek13/py-music-bot](https://github.com/joek13/py-music-bot)
+7. ![star] Starred [AHiddenDonut/Economy-Bot-Youtube](https://github.com/AHiddenDonut/Economy-Bot-Youtube)
+8. ![star] Starred [cree-py/RemixBot](https://github.com/cree-py/RemixBot)
+9. ![star] Starred [Nekos-life/nekos.py](https://github.com/Nekos-life/nekos.py)
+10. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/chinnupavan/pull/1) in [chinnupavan/chinnupavan](https://github.com/chinnupavan/chinnupavan)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Tuesday, July 6th, 2021, 11:30:19 AM (Indian Standard Time)
+Last refresh: Tuesday, July 6th, 2021, 5:30:46 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
