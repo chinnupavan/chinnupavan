@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-2. ![star] Starred [SamSanai/VoiceMaster-Discord-Bot](https://github.com/SamSanai/VoiceMaster-Discord-Bot)
-3. ![star] Starred [nerrixDE/simple-modlogs](https://github.com/nerrixDE/simple-modlogs)
-4. ![star] Starred [eric-yeung/Discord-Bot](https://github.com/eric-yeung/Discord-Bot)
-5. ![star] Starred [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot)
-6. ![star] Starred [joek13/py-music-bot](https://github.com/joek13/py-music-bot)
-7. ![star] Starred [AHiddenDonut/Economy-Bot-Youtube](https://github.com/AHiddenDonut/Economy-Bot-Youtube)
-8. ![star] Starred [cree-py/RemixBot](https://github.com/cree-py/RemixBot)
-9. ![star] Starred [Nekos-life/nekos.py](https://github.com/Nekos-life/nekos.py)
-10. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/chinnupavan/pull/1) in [chinnupavan/chinnupavan](https://github.com/chinnupavan/chinnupavan)
+1. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/priya-bot/pull/1) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+2. ![prMerged] Merged PR [#2](https://github.com/chinnupavan/priya-bot/pull/2) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+3. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+4. ![star] Starred [SamSanai/VoiceMaster-Discord-Bot](https://github.com/SamSanai/VoiceMaster-Discord-Bot)
+5. ![star] Starred [nerrixDE/simple-modlogs](https://github.com/nerrixDE/simple-modlogs)
+6. ![star] Starred [eric-yeung/Discord-Bot](https://github.com/eric-yeung/Discord-Bot)
+7. ![star] Starred [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot)
+8. ![star] Starred [joek13/py-music-bot](https://github.com/joek13/py-music-bot)
+9. ![star] Starred [AHiddenDonut/Economy-Bot-Youtube](https://github.com/AHiddenDonut/Economy-Bot-Youtube)
+10. ![star] Starred [cree-py/RemixBot](https://github.com/cree-py/RemixBot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Tuesday, July 6th, 2021, 5:30:46 PM (Indian Standard Time)
+Last refresh: Tuesday, July 6th, 2021, 11:30:30 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
