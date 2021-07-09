@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-2. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/priya-bot/pull/1) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-3. ![prMerged] Merged PR [#2](https://github.com/chinnupavan/priya-bot/pull/2) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-4. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-5. ![star] Starred [SamSanai/VoiceMaster-Discord-Bot](https://github.com/SamSanai/VoiceMaster-Discord-Bot)
-6. ![star] Starred [nerrixDE/simple-modlogs](https://github.com/nerrixDE/simple-modlogs)
-7. ![star] Starred [eric-yeung/Discord-Bot](https://github.com/eric-yeung/Discord-Bot)
-8. ![star] Starred [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot)
-9. ![star] Starred [joek13/py-music-bot](https://github.com/joek13/py-music-bot)
-10. ![star] Starred [AHiddenDonut/Economy-Bot-Youtube](https://github.com/AHiddenDonut/Economy-Bot-Youtube)
+1. ![prMerged] Merged PR [#4](https://github.com/chinnupavan/priya-bot/pull/4) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+2. ![star] Starred [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+3. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/priya-bot/pull/1) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+4. ![prMerged] Merged PR [#2](https://github.com/chinnupavan/priya-bot/pull/2) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+5. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+6. ![star] Starred [SamSanai/VoiceMaster-Discord-Bot](https://github.com/SamSanai/VoiceMaster-Discord-Bot)
+7. ![star] Starred [nerrixDE/simple-modlogs](https://github.com/nerrixDE/simple-modlogs)
+8. ![star] Starred [eric-yeung/Discord-Bot](https://github.com/eric-yeung/Discord-Bot)
+9. ![star] Starred [Just-Some-Bots/MusicBot](https://github.com/Just-Some-Bots/MusicBot)
+10. ![star] Starred [joek13/py-music-bot](https://github.com/joek13/py-music-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Friday, July 9th, 2021, 5:30:38 PM (Indian Standard Time)
+Last refresh: Friday, July 9th, 2021, 11:30:13 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
