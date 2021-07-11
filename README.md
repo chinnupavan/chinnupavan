@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![people] Became collaborator on [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-2. ![prMerged] Merged PR [#7](https://github.com/chinnupavan/priya-bot/pull/7) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-3. ![prMerged] Merged PR [#6](https://github.com/chinnupavan/priya-bot/pull/6) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-4. ![prMerged] Merged PR [#5](https://github.com/chinnupavan/priya-bot/pull/5) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-5. ![prMerged] Merged PR [#4](https://github.com/chinnupavan/priya-bot/pull/4) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-6. ![star] Starred [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-7. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/priya-bot/pull/1) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-8. ![prMerged] Merged PR [#2](https://github.com/chinnupavan/priya-bot/pull/2) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-9. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-10. ![star] Starred [SamSanai/VoiceMaster-Discord-Bot](https://github.com/SamSanai/VoiceMaster-Discord-Bot)
+1. ![star] Starred [mcplayer9999/radio-garden-m3u](https://github.com/mcplayer9999/radio-garden-m3u)
+2. ![people] Became collaborator on [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+3. ![prMerged] Merged PR [#7](https://github.com/chinnupavan/priya-bot/pull/7) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+4. ![prMerged] Merged PR [#6](https://github.com/chinnupavan/priya-bot/pull/6) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+5. ![prMerged] Merged PR [#5](https://github.com/chinnupavan/priya-bot/pull/5) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+6. ![prMerged] Merged PR [#4](https://github.com/chinnupavan/priya-bot/pull/4) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+7. ![star] Starred [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+8. ![prMerged] Merged PR [#1](https://github.com/chinnupavan/priya-bot/pull/1) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+9. ![prMerged] Merged PR [#2](https://github.com/chinnupavan/priya-bot/pull/2) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+10. ![repoCreated] Created new repository [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Sunday, July 11th, 2021, 5:40:12 AM (Indian Standard Time)
+Last refresh: Sunday, July 11th, 2021, 11:30:43 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
