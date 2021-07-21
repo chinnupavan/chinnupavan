@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-2. ![prMerged] Merged PR [#11](https://github.com/chinnupavan/priya-bot/pull/11) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-3. ![prMerged] Merged PR [#12](https://github.com/chinnupavan/priya-bot/pull/12) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-4. ![star] Starred [NiceAesth/Sunny](https://github.com/NiceAesth/Sunny)
-5. ![star] Starred [argo0n/NograBot](https://github.com/argo0n/NograBot)
-6. ![star] Starred [mcplayer9999/radio-garden-m3u](https://github.com/mcplayer9999/radio-garden-m3u)
-7. ![people] Became collaborator on [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-8. ![prMerged] Merged PR [#7](https://github.com/chinnupavan/priya-bot/pull/7) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-9. ![prMerged] Merged PR [#6](https://github.com/chinnupavan/priya-bot/pull/6) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-10. ![prMerged] Merged PR [#5](https://github.com/chinnupavan/priya-bot/pull/5) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+1. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
+2. ![star] Starred [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+3. ![prMerged] Merged PR [#11](https://github.com/chinnupavan/priya-bot/pull/11) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+4. ![prMerged] Merged PR [#12](https://github.com/chinnupavan/priya-bot/pull/12) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+5. ![star] Starred [NiceAesth/Sunny](https://github.com/NiceAesth/Sunny)
+6. ![star] Starred [argo0n/NograBot](https://github.com/argo0n/NograBot)
+7. ![star] Starred [mcplayer9999/radio-garden-m3u](https://github.com/mcplayer9999/radio-garden-m3u)
+8. ![people] Became collaborator on [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+9. ![prMerged] Merged PR [#7](https://github.com/chinnupavan/priya-bot/pull/7) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+10. ![prMerged] Merged PR [#6](https://github.com/chinnupavan/priya-bot/pull/6) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Wednesday, July 21st, 2021, 5:30:21 PM (Indian Standard Time)
+Last refresh: Wednesday, July 21st, 2021, 11:30:28 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
