@@ -21,7 +21,7 @@
 10. ![prMerged] Merged PR [#7](https://github.com/chinnupavan/priya-bot/pull/7) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Tuesday, July 27th, 2021, 11:30:46 AM (Indian Standard Time)
+Last refresh: Tuesday, July 27th, 2021, 5:30:30 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
