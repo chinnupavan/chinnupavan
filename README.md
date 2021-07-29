@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [picklejason/coronavirus-bot](https://github.com/picklejason/coronavirus-bot)
-2. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
-3. ![star] Starred [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-4. ![prMerged] Merged PR [#11](https://github.com/chinnupavan/priya-bot/pull/11) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-5. ![prMerged] Merged PR [#12](https://github.com/chinnupavan/priya-bot/pull/12) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-6. ![star] Starred [NiceAesth/Sunny](https://github.com/NiceAesth/Sunny)
-7. ![star] Starred [argo0n/NograBot](https://github.com/argo0n/NograBot)
-8. ![star] Starred [mcplayer9999/radio-garden-m3u](https://github.com/mcplayer9999/radio-garden-m3u)
-9. ![people] Became collaborator on [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-10. ![prMerged] Merged PR [#7](https://github.com/chinnupavan/priya-bot/pull/7) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+1. ![star] Starred [CodeWithSwastik/Dashboard-Tutorials](https://github.com/CodeWithSwastik/Dashboard-Tutorials)
+2. ![star] Starred [picklejason/coronavirus-bot](https://github.com/picklejason/coronavirus-bot)
+3. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
+4. ![star] Starred [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+5. ![prMerged] Merged PR [#11](https://github.com/chinnupavan/priya-bot/pull/11) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+6. ![prMerged] Merged PR [#12](https://github.com/chinnupavan/priya-bot/pull/12) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+7. ![star] Starred [NiceAesth/Sunny](https://github.com/NiceAesth/Sunny)
+8. ![star] Starred [argo0n/NograBot](https://github.com/argo0n/NograBot)
+9. ![star] Starred [mcplayer9999/radio-garden-m3u](https://github.com/mcplayer9999/radio-garden-m3u)
+10. ![people] Became collaborator on [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Thursday, July 29th, 2021, 5:40:32 AM (Indian Standard Time)
+Last refresh: Thursday, July 29th, 2021, 11:30:22 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
