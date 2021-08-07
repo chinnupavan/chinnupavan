@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [NoiceNoiceBaby/noicebot](https://github.com/NoiceNoiceBaby/noicebot)
-2. ![fork] Forked [chinnupavan/NeptunBOT](https://github.com/chinnupavan/NeptunBOT) from [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
-3. ![star] Starred [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
-4. ![star] Starred [451EK/Calculator](https://github.com/451EK/Calculator)
-5. ![star] Starred [CodeWithSwastik/Dashboard-Tutorials](https://github.com/CodeWithSwastik/Dashboard-Tutorials)
-6. ![star] Starred [picklejason/coronavirus-bot](https://github.com/picklejason/coronavirus-bot)
-7. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
-8. ![star] Starred [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-9. ![prMerged] Merged PR [#11](https://github.com/chinnupavan/priya-bot/pull/11) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-10. ![prMerged] Merged PR [#12](https://github.com/chinnupavan/priya-bot/pull/12) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+1. ![star] Starred [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template)
+2. ![star] Starred [NoiceNoiceBaby/noicebot](https://github.com/NoiceNoiceBaby/noicebot)
+3. ![fork] Forked [chinnupavan/NeptunBOT](https://github.com/chinnupavan/NeptunBOT) from [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
+4. ![star] Starred [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
+5. ![star] Starred [451EK/Calculator](https://github.com/451EK/Calculator)
+6. ![star] Starred [CodeWithSwastik/Dashboard-Tutorials](https://github.com/CodeWithSwastik/Dashboard-Tutorials)
+7. ![star] Starred [picklejason/coronavirus-bot](https://github.com/picklejason/coronavirus-bot)
+8. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
+9. ![star] Starred [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+10. ![prMerged] Merged PR [#11](https://github.com/chinnupavan/priya-bot/pull/11) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Saturday, August 7th, 2021, 11:30:47 AM (Indian Standard Time)
+Last refresh: Saturday, August 7th, 2021, 5:30:32 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
