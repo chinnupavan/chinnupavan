@@ -21,7 +21,7 @@
 10. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Sunday, August 8th, 2021, 5:41:24 AM (Indian Standard Time)
+Last refresh: Sunday, August 8th, 2021, 11:30:27 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
