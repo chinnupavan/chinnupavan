@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [popop098/discord.py-dashboard](https://github.com/popop098/discord.py-dashboard)
-2. ![star] Starred [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot)
-3. ![star] Starred [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template)
-4. ![star] Starred [NoiceNoiceBaby/noicebot](https://github.com/NoiceNoiceBaby/noicebot)
-5. ![fork] Forked [chinnupavan/NeptunBOT](https://github.com/chinnupavan/NeptunBOT) from [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
-6. ![star] Starred [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
-7. ![star] Starred [451EK/Calculator](https://github.com/451EK/Calculator)
-8. ![star] Starred [CodeWithSwastik/Dashboard-Tutorials](https://github.com/CodeWithSwastik/Dashboard-Tutorials)
-9. ![star] Starred [picklejason/coronavirus-bot](https://github.com/picklejason/coronavirus-bot)
-10. ![star] Starred [top-gg/python-sdk](https://github.com/top-gg/python-sdk)
+1. ![star] Starred [Xannus6666/Tito-Bot](https://github.com/Xannus6666/Tito-Bot)
+2. ![star] Starred [popop098/discord.py-dashboard](https://github.com/popop098/discord.py-dashboard)
+3. ![star] Starred [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot)
+4. ![star] Starred [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template)
+5. ![star] Starred [NoiceNoiceBaby/noicebot](https://github.com/NoiceNoiceBaby/noicebot)
+6. ![fork] Forked [chinnupavan/NeptunBOT](https://github.com/chinnupavan/NeptunBOT) from [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
+7. ![star] Starred [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
+8. ![star] Starred [451EK/Calculator](https://github.com/451EK/Calculator)
+9. ![star] Starred [CodeWithSwastik/Dashboard-Tutorials](https://github.com/CodeWithSwastik/Dashboard-Tutorials)
+10. ![star] Starred [picklejason/coronavirus-bot](https://github.com/picklejason/coronavirus-bot)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Sunday, August 8th, 2021, 11:30:27 AM (Indian Standard Time)
+Last refresh: Sunday, August 8th, 2021, 5:30:15 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
