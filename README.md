@@ -9,19 +9,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [chinnupavan/Toad-Sings-Discord-Bot](https://github.com/chinnupavan/Toad-Sings-Discord-Bot) from [K-209/Toad-Sings-Discord-Bot](https://github.com/K-209/Toad-Sings-Discord-Bot)
-2. ![star] Starred [Amethyst93/Discord-YouTube-Notifier](https://github.com/Amethyst93/Discord-YouTube-Notifier)
-3. ![star] Starred [Xannus6666/Tito-Bot](https://github.com/Xannus6666/Tito-Bot)
-4. ![star] Starred [popop098/discord.py-dashboard](https://github.com/popop098/discord.py-dashboard)
-5. ![star] Starred [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot)
-6. ![star] Starred [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template)
-7. ![star] Starred [NoiceNoiceBaby/noicebot](https://github.com/NoiceNoiceBaby/noicebot)
-8. ![fork] Forked [chinnupavan/NeptunBOT](https://github.com/chinnupavan/NeptunBOT) from [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
-9. ![star] Starred [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
-10. ![star] Starred [451EK/Calculator](https://github.com/451EK/Calculator)
+1. ![star] Starred [Cursorr/GiveawayBot](https://github.com/Cursorr/GiveawayBot)
+2. ![fork] Forked [chinnupavan/Toad-Sings-Discord-Bot](https://github.com/chinnupavan/Toad-Sings-Discord-Bot) from [K-209/Toad-Sings-Discord-Bot](https://github.com/K-209/Toad-Sings-Discord-Bot)
+3. ![star] Starred [Amethyst93/Discord-YouTube-Notifier](https://github.com/Amethyst93/Discord-YouTube-Notifier)
+4. ![star] Starred [Xannus6666/Tito-Bot](https://github.com/Xannus6666/Tito-Bot)
+5. ![star] Starred [popop098/discord.py-dashboard](https://github.com/popop098/discord.py-dashboard)
+6. ![star] Starred [1Prototype1/HexBot](https://github.com/1Prototype1/HexBot)
+7. ![star] Starred [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template)
+8. ![star] Starred [NoiceNoiceBaby/noicebot](https://github.com/NoiceNoiceBaby/noicebot)
+9. ![fork] Forked [chinnupavan/NeptunBOT](https://github.com/chinnupavan/NeptunBOT) from [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
+10. ![star] Starred [feytus/NeptunBOT](https://github.com/feytus/NeptunBOT)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Friday, August 13th, 2021, 5:30:25 AM (Indian Standard Time)
+Last refresh: Friday, August 13th, 2021, 11:30:33 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
