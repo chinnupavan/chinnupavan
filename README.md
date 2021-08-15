@@ -21,7 +21,7 @@
 10. ![star] Starred [Nouridio/Discord-bot-website-template](https://github.com/Nouridio/Discord-bot-website-template)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Saturday, August 14th, 2021, 11:30:21 PM (Indian Standard Time)
+Last refresh: Sunday, August 15th, 2021, 5:41:20 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
