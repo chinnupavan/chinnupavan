@@ -21,7 +21,7 @@
 10. ![star] Starred [Amethyst93/Discord-YouTube-Notifier](https://github.com/Amethyst93/Discord-YouTube-Notifier)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last refresh: Thursday, June 29th, 2023, 5:30:36 PM (Indian Standard Time)
+Last refresh: Friday, June 30th, 2023, 6:01:03 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Badges -->
